@@ -1,9 +1,10 @@
-# Neuron Template
+# Thanh's Blog
 
-You are viewing a template site that is generated from [neuron-template](https://github.com/srid/neuron-template) and published by [neuron](https://neuron.zettel.page/). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository gets updated.
+Đây là blog mình đang xây dựng. Các blog của mình có chủ đề về tech như macos, vim, deeplearning, hoặc đôi khi là các chủ đề nhảm nhí (rant) mà mình đang quan tâm.
 
-Get started by reading [[README]]#.
+Blog này được tạo từ [srid's neuron-template](https://github.com/srid/neuron-template), rất đơn giản chỉ cần thêm các file `.md` vào folder static là có thể serving trên web rồi !
 
-Other pages on this zettelkasten:
+> Hãy bắt đầu từ đây [[README]]#.
 
+Một số đường dẫn khác:
 - [[faq]]#
