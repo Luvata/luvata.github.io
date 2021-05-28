@@ -14,4 +14,4 @@ citekey: khandelwalGENERALIZATIONMEMORIZATIONNEAREST2020
         - 1. Interpolate với n-grams không cải thiện tốt bằng LM -> Phrase representation là quan trọng. LM có khả năng học phrase-representation rất tốt và tốt với phép tương đồng
         - 2. Một LM lớn hoàn toàn có thể memorize training data tốt nhưng ko generalize tốt (perplexity trên held-out thấp), trong khi đó KNNLM vừa giúp cải thiện việc memorize vừa tăng tính generalization
 ## Highlight
-- ![[Screen Shot 2021-05-04 at 09.07.29.png]]
+- !()[./static/images/Screen Shot 2021-05-04 at 09.07.29.png]

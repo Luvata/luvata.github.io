@@ -15,6 +15,6 @@ citekey: lewisBARTDenoisingSequencetoSequence2019
 - BART khác gì T5 ? Nhìn chung khá giống nhau :D
 
 ## Highlight
-- Overview of architecture: ![[Screen Shot 2021-05-12 at 15.09.56.png]]
-- Pretraining tasks: ![[Screen Shot 2021-05-12 at 15.14.13.png]]
-- Finetuning seq2seq ![[Screen Shot 2021-05-12 at 15.22.56.png]]
+- Overview of architecture: !()[./static/images/Screen Shot 2021-05-12 at 15.09.56.png]
+- Pretraining tasks: !()[./static/images/Screen Shot 2021-05-12 at 15.14.13.png]
+- Finetuning seq2seq !()[./static/images/Screen Shot 2021-05-12 at 15.22.56.png]

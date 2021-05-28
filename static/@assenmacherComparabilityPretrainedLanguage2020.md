@@ -12,6 +12,6 @@ citekey: assenmacherComparabilityPretrainedLanguage2020
   - Có tổng hợp các bộ dữ liệu được đánh giá và so sánh giữa các model
 
 ## Highlight
-![[Screen Shot 2021-05-06 at 16.46.41.png]]
+!()[./static/images/Screen Shot 2021-05-06 at 16.46.41.png]
 
-![[Screen Shot 2021-05-06 at 16.47.09.png]]
+!()[./static/images/Screen Shot 2021-05-06 at 16.47.09.png]
