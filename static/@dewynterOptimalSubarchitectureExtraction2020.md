@@ -13,4 +13,4 @@ citekey: dewynterOptimalSubarchitectureExtraction2020
   - #L-Lipschitz-smoothness
   - #FPTAS-solver
 ## Highlight
-![](./static/images/Screen Shot 2021-05-13 at 14.16.35.png)
+![](./static/images/Screen\ Shot\ 2021-05-13\ at\ 14.16.35.png)
