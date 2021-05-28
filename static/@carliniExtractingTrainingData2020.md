@@ -15,6 +15,6 @@ citekey: carliniExtractingTrainingData2020
   - **Prompt ảnh hưởng lớn đến khả năng nhớ của LM (vd về PI)**
   - GPT-2 đôi khi cũng **generate ra những văn bản sai sự thật** (refer đến 1 celebrity, đúng một phần sau đó là make-up content)
 ## Highlight
-![](./static/images/Screen\ Shot\ 2021-05-03\ at\ 16.01.54.png)
-![](./static/images/Screen\ Shot\ 2021-05-03\ at\ 16.06.33.png)
-![](./static/images/Screen\ Shot\ 2021-05-03\ at\ 16.12.25.png)
+![](.\static\images\Screen\ Shot\ 2021-05-03\ at\ 16.01.54.png)
+![](.\static\images\Screen\ Shot\ 2021-05-03\ at\ 16.06.33.png)
+![](.\static\images\Screen\ Shot\ 2021-05-03\ at\ 16.12.25.png)

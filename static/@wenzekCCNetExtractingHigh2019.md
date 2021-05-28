@@ -12,6 +12,6 @@ citekey: wenzekCCNetExtractingHigh2019
   - Việc filter dùng perplexity tương đối đúng dù đôi khi recall thấp (do target corpus wiki quá nhỏ tuỳ ngôn ngữ), và perplexity có correlate với performance trên các downstream task
   - (dedup -> LangID) giúp giữ lại nhiều document của low-resource lang hơn so với LangID -> deduplicate
 ## Highlight
-- ![](./static/images/Screen\ Shot\ 2021-05-07\ at\ 16.29.42.png)
-- ![](./static/images/Screen\ Shot\ 2021-05-07\ at\ 16.36.25.png)
-- ![](./static/images/Screen\ Shot\ 2021-05-07\ at\ 16.38.40.png)
+- ![](.\static\images\Screen\ Shot\ 2021-05-07\ at\ 16.29.42.png)
+- ![](.\static\images\Screen\ Shot\ 2021-05-07\ at\ 16.36.25.png)
+- ![](.\static\images\Screen\ Shot\ 2021-05-07\ at\ 16.38.40.png)
