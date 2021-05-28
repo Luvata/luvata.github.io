@@ -18,6 +18,6 @@ citekey: radfordLanguageModelsAre
   - Đánh giá zero-shot trên các task translation, token disambiguity, last token, simple QA 
 
 ## Highlight
-  - Việc nhớ data có xuất hiện, được tính bằng 8-grams overlap. Chi tiết được đề cập trong [[@carliniExtractingTrainingData2020]] !()[.\static\images\Screen Shot 2021-05-02 at 21.03.07.png]
+  - Việc nhớ data có xuất hiện, được tính bằng 8-grams overlap. Chi tiết được đề cập trong [[@carliniExtractingTrainingData2020]] ![](static/images/Screen Shot 2021-05-02 at 21.03.07.png)
   
-  - Model size matters: Bigger -> better !()[.\static\images\Screen Shot 2021-05-02 at 21.16.14.png]
+  - Model size matters: Bigger -> better ![](static/images/Screen Shot 2021-05-02 at 21.16.14.png)

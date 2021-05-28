@@ -9,4 +9,4 @@ citekey: liuRoBERTaRobustlyOptimized2019
 > **TL;DR**:  Robustly optimized BERT approach: nhận thấy BERT bị **undertrained**, RoBERTa with carefully hyperparameters chosen (beta) + bigger (size, BPE,  batch size, training step, corpus) + remove NSP outperform BERT on all task
 
 ## Highlight
-- !()[.\static\images\Screen Shot 2021-05-12 at 14.57.47.png]
+- ![](static/images/Screen Shot 2021-05-12 at 14.57.47.png)
