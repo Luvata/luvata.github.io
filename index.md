@@ -5,5 +5,3 @@
 Blog này được tạo từ [srid's neuron-template](https://github.com/srid/neuron-template), rất đơn giản chỉ cần thêm các file `.md` vào folder static là có thể serving trên web rồi !
 
 > Hãy bắt đầu từ đây [[README]]#.
-
-[[[z:zettels?tag=news]]]

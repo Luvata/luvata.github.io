@@ -10,6 +10,6 @@ citekey: holtzmanCuriousCaseNeural2020a
 - [openreview](https://openreview.net/forum?id=rygGQyrFvH)
 
 ## Highlight
-- !()[./static/images/Screen Shot 2021-05-11 at 00.38.25.png]
+- !()[.\static\images\Screen Shot 2021-05-11 at 00.38.25.png]
   - Dù beam search cho probability cao nhưng text bị duplicate và low surprising. Màu cam là perplexity của model đó đo trên text của human
-- !()[./static/images/Screen Shot 2021-05-11 at 00.54.27.png]
+- !()[.\static\images\Screen Shot 2021-05-11 at 00.54.27.png]
