@@ -15,9 +15,9 @@ citekey: zhangUnderstandingDeepLearning2017
 
  
 ## Highlight
-- ![[Screen Shot 2021-05-08 at 23.47.17.png]]
-- ![[Screen Shot 2021-05-08 at 23.55.04.png]]
-- ![[Screen Shot 2021-05-09 at 00.07.20.png]]
+- !()[./static/images/Screen Shot 2021-05-08 at 23.47.17.png]
+- !()[./static/images/Screen Shot 2021-05-08 at 23.55.04.png]
+- !()[./static/images/Screen Shot 2021-05-09 at 00.07.20.png]
 
 ## Điều chưa rõ
 - Gram matrix & Kernel trick

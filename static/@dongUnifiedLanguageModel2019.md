@@ -15,6 +15,6 @@ citekey: dongUnifiedLanguageModel2019
 - Chưa so sánh chất lượng pretrained model (không bao gồm finetuning) trên các task zero-shot NLG (vd so sánh với GPT-2, GPT-3)
 
 ## Highlight
-- ![[Screen Shot 2021-05-11 at 23.40.52.png]]
-- ![[Screen Shot 2021-05-11 at 23.44.00.png]]
+- !()[./static/images/Screen Shot 2021-05-11 at 23.40.52.png]
+- !()[./static/images/Screen Shot 2021-05-11 at 23.44.00.png]
   - Việc setup pretraining Seq2Seq khá mới, bằng cách khéo léo sử dụng causal mask cho target sequence

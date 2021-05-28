@@ -11,7 +11,7 @@ Controlling LM bằng việc dùng control code (token trước prompt) giúp vi
 
 ## Why
 - Việc dùng control code work vì model được train với nhiều data, và nhiều control code (vd Wiki, subreddit)
-  - ![[Screen Shot 2021-05-18 at 19.30.17.png]]
+  - !()[./static/images/Screen Shot 2021-05-18 at 19.30.17.png]
 
 - Nếu thuần sampling (Temperature top k / Nucleus sampling) với những prompt chỉ có 1 đáp án đúng (vd Thủ đô của Việt Nam là gì ?), sampling có thể trả về Hà Nội, Đà Nẵng, HCM. Còn argmax sẽ trả về HN. Vậy để sample ra truth nhưng vẫn không bị lặp lại (do argmax) thì bên cạnh dùng argmax propose là penalize nếu token bị lặp lại
 ## How

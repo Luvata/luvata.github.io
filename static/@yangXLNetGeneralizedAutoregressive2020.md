@@ -9,15 +9,15 @@ citekey: yangXLNetGeneralizedAutoregressive2020
 > **TL;DR**: Một pretrained method cho auto-regressive LM (GPT like) nhưng có thể capture bi-directional context (như BERT) bằng cách (1) permutation LM và (2) two stream attention. Kết quả XLNet outperform BERT và RoBERTa trên nhiều NLU task. Tuy nhiên** không thấy đề cập performance của NLG task**
 
 - Standard softmax for Permuation LM does not work: Khi predict `4->1->**3**->2` và `4->1->**2**->3`, 2 token này có chung biểu diễn (từ 4 và 1) nhưng khác target distribution -> cần làm 2 biểu diễn của 2 token này khác nhau -> biểu diễn cần **condition on current token position**
-  - ![[Screen Shot 2021-05-15 at 10.50.12.png]]
-  - ![[Screen Shot 2021-05-15 at 10.51.53.png]]
+  - !()[./static/images/Screen Shot 2021-05-15 at 10.50.12.png]
+  - !()[./static/images/Screen Shot 2021-05-15 at 10.51.53.png]
 - Tuy nhiên nếu biểu diễn condition on current token -> predict this token become trivial (contradiction) -> propose two stream attention: $g$ và $h$
-  - ![[Screen Shot 2021-05-15 at 11.05.40.png]]
+  - !()[./static/images/Screen Shot 2021-05-15 at 11.05.40.png]
   - $g_i$ không encode $x_i$, do vậy dùng để predict $x_i$
   - $h_i$ có encode $x_i$ và dùng để predict $x_{j \neq i}$
 
-- ![[Screen Shot 2021-05-15 at 11.09.26.png]]
-- ![[Screen Shot 2021-05-15 at 11.09.43.png]]
+- !()[./static/images/Screen Shot 2021-05-15 at 11.09.26.png]
+- !()[./static/images/Screen Shot 2021-05-15 at 11.09.43.png]
 
 ## Highlight
 - Vấn đề của BERT
@@ -25,8 +25,8 @@ citekey: yangXLNetGeneralizedAutoregressive2020
   - (2) pretrain-finetune discrepancy: Do sử dụng artificial symbol `[MASK]` không có trong finetuning
 
 - Trong appendix có 3 pattern Attention mới so với BERT
-  - ![[Screen Shot 2021-05-15 at 11.10.43.png]]
+  - !()[./static/images/Screen Shot 2021-05-15 at 11.10.43.png]
 
--  Training lâu và khó hơn BERT, propose method là chỉ tính loss trên một phần, không phải với tất cả token ![[Screen Shot 2021-05-15 at 11.17.29.png]]
+-  Training lâu và khó hơn BERT, propose method là chỉ tính loss trên một phần, không phải với tất cả token !()[./static/images/Screen Shot 2021-05-15 at 11.17.29.png]
 
 - Không thấy đề cập performance của NLG tasks
