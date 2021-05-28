@@ -20,5 +20,5 @@ citekey: radfordImprovingLanguageUnderstanding
 
 
 ## Highlight
-- Cách setup các task !()[./static/images/Screen Shot 2021-05-01 at 19.33.20.png]
-- Nhận xét về số layer khi finetuning và gain từ finetuning !()[./static/images/Screen Shot 2021-05-01 at 19.44.31.png]
+- Cách setup các task !()[.\static\images\Screen Shot 2021-05-01 at 19.33.20.png]
+- Nhận xét về số layer khi finetuning và gain từ finetuning !()[.\static\images\Screen Shot 2021-05-01 at 19.44.31.png]
