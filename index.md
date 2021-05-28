@@ -6,5 +6,3 @@ Blog này được tạo từ [srid's neuron-template](https://github.com/srid/n
 
 > Hãy bắt đầu từ đây [[README]]#.
 
-Một số đường dẫn khác:
-- [[faq]]#
