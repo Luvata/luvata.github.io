@@ -1,8 +1,8 @@
 ---
-title: "Optimal Subarchitecture Extraction For BERT"
 authors: "Adrian Wynter, Daniel J. Perry"
 year: 2020
 citekey: dewynterOptimalSubarchitectureExtraction2020
+unlisted: true 
 ---
 
 # Optimal Subarchitecture Extraction For BERT

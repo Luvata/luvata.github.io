@@ -1,5 +1,4 @@
 ---
-title: "Extracting Training Data from Large Language Models"
 authors: "Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ulfar Erlingsson, Alina Oprea, Colin Raffel"
 year: 2020
 citekey: carliniExtractingTrainingData2020

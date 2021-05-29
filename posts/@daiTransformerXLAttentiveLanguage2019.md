@@ -1,5 +1,4 @@
 ---
-title: "Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context"
 authors: "Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov"
 year: 2019
 citekey: daiTransformerXLAttentiveLanguage2019

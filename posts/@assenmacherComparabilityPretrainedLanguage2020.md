@@ -1,5 +1,4 @@
 ---
-title: "On the comparability of Pre-trained Language Models"
 authors: "Matthias Aßenmacher, Christian Heumann"
 year: 2020
 citekey: assenmacherComparabilityPretrainedLanguage2020

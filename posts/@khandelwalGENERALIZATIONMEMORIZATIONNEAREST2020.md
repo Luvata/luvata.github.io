@@ -1,5 +1,4 @@
 ---
-title: "GENERALIZATION THROUGH MEMORIZATION: NEAREST NEIGHBOR LANGUAGE MODELS"
 authors: "Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis"
 year: 2019
 citekey: khandelwalGENERALIZATIONMEMORIZATIONNEAREST2020

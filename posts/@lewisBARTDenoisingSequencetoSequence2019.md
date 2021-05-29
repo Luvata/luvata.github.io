@@ -1,5 +1,4 @@
 ---
-title: "BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension"
 authors: "Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer"
 year: 2019
 citekey: lewisBARTDenoisingSequencetoSequence2019

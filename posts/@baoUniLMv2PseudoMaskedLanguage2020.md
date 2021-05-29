@@ -1,5 +1,4 @@
 ---
-title: "UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training"
 authors: "Hangbo Bao, Li Dong, Furu Wei, Wenhui Wang, Nan Yang, Xiaodong Liu, Yu Wang, Songhao Piao, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon"
 year: 2020
 citekey: baoUniLMv2PseudoMaskedLanguage2020

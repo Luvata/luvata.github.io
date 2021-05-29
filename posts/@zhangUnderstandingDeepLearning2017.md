@@ -1,5 +1,4 @@
 ---
-title: "Understanding deep learning requires rethinking generalization"
 authors: "Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals"
 year: 2017
 citekey: zhangUnderstandingDeepLearning2017

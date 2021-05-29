@@ -1,5 +1,4 @@
 ---
-title: "Unified Language Model Pre-training for Natural Language Understanding and Generation"
 authors: "Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou, Hsiao-Wuen Hon"
 year: 2019
 citekey: dongUnifiedLanguageModel2019

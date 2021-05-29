@@ -1,5 +1,4 @@
 ---
-title: "SpanBERT: Improving Pre-training by Representing and Predicting Spans"
 authors: "Mandar Joshi, Danqi Chen, Yinhan Liu, Daniel S. Weld, Luke Zettlemoyer, Omer Levy"
 year: 2020
 citekey: joshiSpanBERTImprovingPretraining2020

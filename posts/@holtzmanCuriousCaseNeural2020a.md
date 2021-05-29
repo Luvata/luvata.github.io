@@ -1,5 +1,4 @@
 ---
-title: "The Curious Case of Neural Text Degeneration"
 authors: "Ari Holtzman, Jan Buys, Li Du, Maxwell Forbes, Yejin Choi"
 year: 2020
 citekey: holtzmanCuriousCaseNeural2020a

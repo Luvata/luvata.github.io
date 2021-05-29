@@ -1,5 +1,4 @@
 ---
-title: "A Measure of Research Taste"
 authors: "Vladlen Koltun, David Hafner"
 year: 2021
 citekey: koltunMeasureResearchTaste2021

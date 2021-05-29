@@ -1,5 +1,4 @@
 ---
-title: "CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data"
 authors: "Guillaume Wenzek, Marie-Anne Lachaux, Alexis Conneau, Vishrav Chaudhary, Francisco Guzmán, Armand Joulin, Edouard Grave"
 year: 2019
 citekey: wenzekCCNetExtractingHigh2019

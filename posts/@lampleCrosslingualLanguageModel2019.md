@@ -1,5 +1,4 @@
 ---
-title: "Cross-lingual Language Model Pretraining"
 authors: "Guillaume Lample, Alexis Conneau"
 year: 2019
 citekey: lampleCrosslingualLanguageModel2019

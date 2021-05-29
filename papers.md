@@ -4,7 +4,6 @@
 - [[@yangXLNetGeneralizedAutoregressive2020.md]]
 - [[@daiTransformerXLAttentiveLanguage2019.md]]
 - [[@joshiSpanBERTImprovingPretraining2020.md]]
-- [[@dewynterOptimalSubarchitectureExtraction2020.md]]
 - [[@lampleCrosslingualLanguageModel2019.md]]
 - [[@lewisBARTDenoisingSequencetoSequence2019.md]]
 - [[@liuRoBERTaRobustlyOptimized2019.md]]

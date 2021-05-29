@@ -1,5 +1,4 @@
 ---
-title: "Language Models are Unsupervised Multitask Learners"
 authors: "Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya Sutskever"
 year: 
 citekey: radfordLanguageModelsAre

@@ -1,12 +1,11 @@
 ---
-title: "XLNet: Generalized Autoregressive Pretraining for Language Understanding"
 authors: "Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le"
 year: 2020
 citekey: yangXLNetGeneralizedAutoregressive2020
 ---
 
 # XLNet: Generalized Autoregressive Pretraining for Language Understanding
-> **TL;DR**: Một pretrained method cho auto-regressive LM (GPT like) nhưng có thể capture bi-directional context (như BERT) bằng cách (1) permutation LM và (2) two stream attention. Kết quả XLNet outperform BERT và RoBERTa trên nhiều NLU task. Tuy nhiên** không thấy đề cập performance của NLG task**
+> **TL;DR**: Một pretrained method cho auto-regressive LM (GPT like) nhưng có thể capture bi-directional context (như BERT) bằng cách (1) permutation LM và (2) two stream attention. Kết quả XLNet outperform BERT và RoBERTa trên nhiều NLU task. Tuy nhiên **không thấy đề cập performance của NLG task**
 
 - Standard softmax for Permuation LM does not work: Khi predict `4->1->**3**->2` và `4->1->**2**->3`, 2 token này có chung biểu diễn (từ 4 và 1) nhưng khác target distribution -> cần làm 2 biểu diễn của 2 token này khác nhau -> biểu diễn cần **condition on current token position**
   - ![](./static/images/2021-05-15-10-50-12.png)
