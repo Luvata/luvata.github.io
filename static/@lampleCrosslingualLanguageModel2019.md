@@ -12,4 +12,4 @@ citekey: lampleCrosslingualLanguageModel2019
 - Tính Averaged perplexity over languages as a stopping criterion for training. 
 
 ## Highlight
-- Training Cross-lingual LM gồm 2 task: MLM (70%) và Translate language model (30%) ![](./static/images/Screen\ Shot\ 2021-05-12\ at\ 16.03.18.png)
+- Training Cross-lingual LM gồm 2 task: MLM (70%) và Translate language model (30%) ![](./static/images/2021-05-12-16-03-18.png)
